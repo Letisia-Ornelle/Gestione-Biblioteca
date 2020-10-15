@@ -1,0 +1,5 @@
+Functional Requirements
+
+Il mio sistema potrà gestire i prestiti librari ( entrate, uscite,data del prestito e la relativa scadenza)
+Il mio sistema fornirà un area con un insieme di libri da leggere per gli utenti della biblioteca
+Il mio sistema manderà 3 giorni prima all'utente una notifica per ricordargli la scadenza del periodo di prestito e di recarsi in biblioteca per la restituzione 

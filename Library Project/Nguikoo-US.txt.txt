@@ -1,0 +1,5 @@
+User Stories
+
+Come utente della biblioteca, voglio leggere i libri (senza scaricare) senza aver bisogno di andare in biblioteca
+Come utente della biblioteca, voglio consultare il catalogo per prendere a prestito un libro o un volume
+Come bibliotecario, voglio sapere in tempo reale il numero di libri che ho a disposizone per ogni categoria 
